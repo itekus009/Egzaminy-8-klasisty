@@ -2,4 +2,4 @@
 
 ## Menu przedmiotów:
 
-[Matematyka](Zagadnienia.md)
+[Matematyka](Matematyka/Zagadnienia.md)

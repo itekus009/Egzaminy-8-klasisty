@@ -1,4 +1,4 @@
-# Witaj na stronie przygotowującej do egzaminów w ósmej klasie!!!
+# Strona przygotowania do egzaminów ósmoklasisty.
 
 ## Menu przedmiotów:
 

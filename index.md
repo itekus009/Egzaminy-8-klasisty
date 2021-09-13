@@ -4,4 +4,4 @@
 
 [Matematyka](Matematyka/Zagadnienia.md)
 
-<img src="TEST.jpg" width="250">
+<img src="TEST.jpg" width="1500">

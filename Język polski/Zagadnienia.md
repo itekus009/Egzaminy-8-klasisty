@@ -1,1 +1,0 @@
-# Zagadnienia do języka polskiego.

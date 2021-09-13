@@ -1,4 +1,4 @@
-# Na tej stronie znajdują się wszystkie zagadnienia do egzaminu z matematyki.
+# Egzamin z matematyki.
 [Powót do strony głównej.](/index.md)
 
 ## Ogólne wymagania egzaminacyjne

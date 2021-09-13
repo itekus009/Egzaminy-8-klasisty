@@ -1,4 +1,4 @@
-<img src="images/AWZ.png" width="250" style="float:right">
+<img src="TEST.jpg" width="250">
 
 # Witaj na stronie przygotowującej do egzaminów w ósmej klasie!!!
 

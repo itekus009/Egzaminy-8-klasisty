@@ -1,5 +1,7 @@
 # Styl i jego odmiany.
 
+[Zagadnienia z języka polskiego.](https://itekus009.github.io/Egzaminy-8-klasisty/J%C4%99zyk-polski/P-Zagadnienia.html)
+
 ## 1. Styl
 
 To sposób ukształtowania wypowiedzi, opierający się na wyborze określonych środków językowych ze względu na cel prześwietlający nadawcy.

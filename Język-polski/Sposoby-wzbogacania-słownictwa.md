@@ -1,6 +1,6 @@
 # Sposoby wzbogacania słownictwa.
 
-[Zagadnienia z języka polskiego.](Język-polski/P-Zagadnienia.md)
+[Zagadnienia z języka polskiego.](https://itekus009.github.io/Egzaminy-8-klasisty/J%C4%99zyk-polski/P-Zagadnienia.html)
 
 ### 1. Synonimy = wyrazy bliskoznaczne
 

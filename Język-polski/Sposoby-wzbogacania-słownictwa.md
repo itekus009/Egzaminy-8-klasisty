@@ -1,5 +1,7 @@
 # Sposoby wzbogacania słownictwa.
 
+[Zagadnienia z języka polskiego.](Język-polski/P-Zagadnienia.md)
+
 ### 1. Synonimy = wyrazy bliskoznaczne
 
 Przykład: auto, samochód

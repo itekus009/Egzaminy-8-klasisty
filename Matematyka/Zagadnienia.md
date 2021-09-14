@@ -1,6 +1,6 @@
 # Egzamin z matematyki.
 
-[Powót do strony głównej.](/index.md)
+[Strona główna](/index.md)
 
 ## Ogólnie
 

@@ -1,5 +1,7 @@
 # Norma językowa i błąd językowy.
 
+[Zagadnienia z języka polskiego.](https://itekus009.github.io/Egzaminy-8-klasisty/J%C4%99zyk-polski/P-Zagadnienia.html)
+
 ### 1. Błąd językowy
 
 Nieświadome odstępstwo od normy językowej.

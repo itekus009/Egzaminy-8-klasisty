@@ -1,6 +1,6 @@
 # Egzamin z matematyki.
 
-[Strona główna](/index.md)
+[Strona główna](https://itekus009.github.io/Egzaminy-8-klasisty/)
 
 ## Ogólnie
 

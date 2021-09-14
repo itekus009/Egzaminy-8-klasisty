@@ -1,7 +1,5 @@
 # Egzamin z matematyki.
 
-[Strona główna](/index.md)
-
 ## Ogólnie
 
 Przeprowadzany na podstawie wymagań egzaminacyjnych zawierających ograniczony zakres wymagań podstawy programowej (np. ograniczone wymagania dotyczące funkcji i graniastosłupów, całkowita redukcja wymagań dotyczących brył obrotowych i wymagań z IV etapu edukacyjnego dotyczących ostrosłupów).

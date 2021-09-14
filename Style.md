@@ -14,8 +14,6 @@ To sposób ukształtowania wypowiedzi, opierający się na wyborze określonych 
 
 ### b) urzędowy (Odmiana języka literackiego, realizowana w instrukcjach, zarządzeniach, regulaminów, komunikatach, zawiadomieniach i pismach urzędowych)
 
-Czytaj więcej na https://www.bryk.pl/wypracowania/jezyk-polski/materialy-do-matury/1555-styl-i-jego-odmiany.html#utm_source=paste&utm_medium=paste&utm_campaign=other)
-
 Znajdziemy w:
 
 - podaniach
